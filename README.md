@@ -35,17 +35,17 @@ Submit the 6 screenshots, the explanation of the errors in the Word document, an
 
 Submission: the Word document with your responses to the problems, plus the screenshots and root folder for the project in problem 3.
 
-![1](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2.1.PNG)
+![1](https://github.com/bell-kevin/ch5creatingGoodTestData/blob/main/ch5creatingGoodTestData/afterGood1.PNG)
 
-![2](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2.2.PNG)
+![2](https://github.com/bell-kevin/ch5creatingGoodTestData/blob/main/ch5creatingGoodTestData/afterGood2.PNG)
 
-![3](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2.3.PNG)
+![3](https://github.com/bell-kevin/ch5creatingGoodTestData/blob/main/ch5creatingGoodTestData/afterGood3.PNG)
 
-![4](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2.1.PNG)
+![4](https://github.com/bell-kevin/ch5creatingGoodTestData/blob/main/ch5creatingGoodTestData/badInput.PNG)
 
-![5](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2.2.PNG)
+![5](https://github.com/bell-kevin/ch5creatingGoodTestData/blob/main/ch5creatingGoodTestData/beforeBad.PNG)
 
-![6](https://github.com/bell-kevin/mod2compMovieConcessionStand/blob/main/mod2.3.PNG)
+![6](https://github.com/bell-kevin/ch5creatingGoodTestData/blob/main/ch5creatingGoodTestData/beforeBad2.PNG)
 
 == We're Using GitHub Under Protest ==
 
