@@ -1,0 +1,25 @@
+Ch 5 Appl.
+Kevin Bell
+
+Problem #1
+
+2345678910
+
+Problem #2
+
+13579
+
+Problem #3
+
+1. TotalScore just kept getting bigger and bigger. 
+   It never reset. So a reset after each average calc. was needed
+
+2. average never reset, so it also needed a reset after each student.
+
+3. totalScore was an int, but it needs to be a double
+
+4. score 1 if loop needs to be a while loop to check for repeated bad input
+   score 2 if loop needs to be a while loop to check for repeated bad input
+
+5. Extreme scores like 0 and 100 were not valid input before, but after scores 0 and 
+   100 are accepted now as valid input
